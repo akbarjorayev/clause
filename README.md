@@ -2,6 +2,8 @@
 
 **Take a photo of your work contract. See which clauses break the law where you work.**
 
+**Live: [clause.akbarjon.uz](https://clause.akbarjon.uz)**, free, no account, works on any phone.
+
 Clause is a free web app for migrant workers. You take a photo of a contract, offer letter or payslip, in any language, and Clause tells you in plain English which clauses break the labour law of the country you work in. For each problem it quotes the law, says what to do, and lists who to call.
 
 Built for the **Meta Global AI Developer Hackathon** (Indie track, theme *Build for Your World*) with Meta's **Muse Spark** model.
