@@ -15,6 +15,7 @@
       "match_hint": "employer, agent or company keeps, holds or stores the worker's passport",
       "why": "It is an offence for an employer to withhold your passport.",
       "source": "Passports Act 1966 s. 12(1)(f)",
+      "law_text": "Passports Act 1966, s. 12(1)(f): reported as making it an offence for an employer to withhold a worker's passport. (Primary text not retrieved; see sources.)",
       "action": "Keep your passport yourself. If it was taken, report it to the Labour Department or the police."
     },
     {
@@ -24,6 +25,7 @@
       "match_hint": "monthly basic salary below RM1,700",
       "why": "The minimum wage is RM1,700 a month, and it applies to foreign workers too.",
       "source": "Minimum Wages Order 2024",
+      "law_text": "Minimum Wages Order 2024: RM1,700 a month from 1 February 2025, for all employers from 1 August 2025, and it applies to foreign workers too (Bernama). Employers can be fined up to RM10,000 per employee.",
       "action": "Do not accept a salary below the minimum wage. Report it to the Labour Department."
     },
     {
@@ -33,6 +35,7 @@
       "match_hint": "foreign worker levy deducted from or paid by the worker",
       "why": "Since 2018 the employer must pay the foreign worker levy. It is not a lawful deduction from your wage.",
       "source": "Employer's Mandatory Commitment (2018); Employment Act s. 24(1)",
+      "law_text": "Since 1 January 2018 the employer must pay the foreign worker levy (Employer's Mandatory Commitment). Employment Act s. 24(1): \"No deductions shall be made by an employer from the wages of an employee otherwise than in accordance with this Act.\"",
       "action": "Ask for the levy deduction to be removed and refunded."
     },
     {
@@ -42,6 +45,7 @@
       "match_hint": "deductions for housing, food, recruitment costs, fines, or deductions above half the wage",
       "why": "Only deductions allowed by the Employment Act are legal. Housing and food can only be deducted if you asked in writing and the Labour Department approved it, and all deductions together cannot exceed 50% of your monthly wage.",
       "source": "Employment Act s. 24",
+      "law_text": "Employment Act s. 24(4)(e): deductions \"in respect of the rental for accommodation and the cost of services, food and meals\" need \"the request in writing of the employee and [...] the prior permission in writing of the Director General.\" s. 24(8): deductions in a month \"shall not exceed fifty per centum of the wages earned.\"",
       "action": "Do not sign a request for deductions you don't want. Check each payslip."
     },
     {
@@ -51,6 +55,7 @@
       "match_hint": "more than 8 hours a day or 45 hours a week of normal working time",
       "why": "Normal working time is capped at 8 hours a day and 45 hours a week, with a break of at least 30 minutes every 5 hours.",
       "source": "Employment Act s. 60A(1), as amended in 2022",
+      "law_text": "Employment Act s. 60A(1): an employee shall not be required to work \"more than five consecutive hours without a period of leisure of not less than thirty minutes\" or \"more than eight hours in one day\". Weekly hours: 45 since the 2022 amendment (was 48).",
       "action": "Make sure extra hours are recorded and paid as overtime."
     },
     {
@@ -60,6 +65,7 @@
       "match_hint": "overtime unpaid, included in salary, or paid at the normal rate",
       "why": "Overtime must be paid at least 1.5 times your hourly rate (for workers earning RM4,000 a month or less).",
       "source": "Employment Act s. 60A(3)(a)",
+      "law_text": "Employment Act s. 60A(3)(a): \"For any overtime work carried out in excess of the normal hours of work, the employee shall be paid at a rate not less than one and half times his hourly rate of pay.\"",
       "action": "Ask for the overtime rate in writing. Keep a daily record of your hours."
     },
     {
@@ -69,6 +75,7 @@
       "match_hint": "work 7 days a week, no weekly rest day",
       "why": "You must get one whole rest day each week, and you cannot be forced to work on it except in emergencies.",
       "source": "Employment Act ss. 59(1) and 60(1)",
+      "law_text": "Employment Act s. 59(1): \"Every employee shall be allowed in each week a rest day of one whole day.\" s. 60(1): \"no employee shall be compelled to work on a rest day\" except shift work or emergencies.",
       "action": "Ask for a fixed weekly rest day in the contract."
     },
     {
@@ -78,6 +85,7 @@
       "match_hint": "less than 8 days annual leave, or no annual leave",
       "why": "You get at least 8 days of paid annual leave a year (12 after 2 years, 16 after 5 years).",
       "source": "Employment Act s. 60E(1)",
+      "law_text": "Employment Act s. 60E(1): paid annual leave of \"eight days for every twelve months of continuous service\" in the first two years, twelve days from two to five years, and sixteen days after five years.",
       "action": "Ask for the leave clause to match the law."
     },
     {
@@ -87,11 +95,18 @@
       "match_hint": "worker must pay recruitment costs, a fine or penalty for resigning or leaving early",
       "why": "Recruitment costs should not be charged to workers, and making you pay to be allowed to leave can count as forced labour, which is now an offence under the Employment Act.",
       "source": "Employment Act (forced labour provision, 2022 amendment); ILO fair recruitment principles",
+      "law_text": "Employment Act (2022 amendment): forced labour is \"any act of an employer who threatens, deceives, or forces an employee to do any activity, service or work and prevents that employee from proceeding beyond the place or area where such activity, service or work is done\", an offence punishable by fine and/or prison. ILO: \"No recruitment fees or related costs should be charged to, or otherwise borne by, workers.\"",
       "action": "Do not sign this clause. Report threats or penalties to the Labour Department."
     }
   ],
   "hotlines": [
-    { "name": "Labour Department (JTKSM)", "contact": "https://jtksm.mohr.gov.my" },
-    { "name": "Police", "contact": "999" }
+    {
+      "name": "Labour Department (JTKSM)",
+      "contact": "https://jtksm.mohr.gov.my"
+    },
+    {
+      "name": "Police",
+      "contact": "999"
+    }
   ]
 }

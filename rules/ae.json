@@ -12,6 +12,7 @@
       "match_hint": "employer, agent or company keeps, holds or stores the worker's passport, Emirates ID or other official documents",
       "why": "Your employer is not allowed to hold your passport or other official documents.",
       "source": "Federal Decree-Law 33/2021 Art. 13(2)",
+      "law_text": "Art. 13(2): The employer shall comply with \"Not withholding the official documents of the worker or forcing him to leave the State at the end of the employment relationship.\"",
       "action": "Do not hand over your passport. If it was taken, report it to MOHRE on 600 590000."
     },
     {
@@ -21,6 +22,7 @@
       "match_hint": "worker pays, or has deducted from salary, recruitment fees, visa costs, placement or service charges, or must repay recruitment costs",
       "why": "Employers may not charge you recruitment or employment fees, directly or indirectly (for example through salary deductions).",
       "source": "Federal Decree-Law 33/2021 Art. 6(4)",
+      "law_text": "Art. 6(4): \"The employer is prohibited from charging the worker for the fees and costs of recruitment and employment or collecting them from him, whether directly or indirectly.\"",
       "action": "Do not pay. Keep proof of anything you already paid and report it to MOHRE."
     },
     {
@@ -30,6 +32,7 @@
       "match_hint": "deductions from salary for housing, food, fines, loans, damages, or any deduction not listed by law",
       "why": "Deductions are only allowed in cases listed by law: loans need your written consent and no interest, fines are capped at 5% of the wage, and all deductions together cannot exceed 50%.",
       "source": "Federal Decree-Law 33/2021 Art. 25",
+      "law_text": "Art. 25: \"No amount may be deducted or withheld from the worker's wage except in the following cases\", including loans \"after obtaining the worker's written consent and without any interest\" and fines that \"shall not exceed (5%) five percent of the wage\". \"In all cases the percentage of deduction and/or withholding may not exceed (50%) fifty percent of the wage.\"",
       "action": "Ask what each deduction is for, in writing. Keep your payslips."
     },
     {
@@ -39,6 +42,7 @@
       "match_hint": "worker pays for accommodation provided by employer, housing cost deducted from wage",
       "why": "The employer must provide proper licensed accommodation, or pay a housing allowance or include it in the wage.",
       "source": "Federal Decree-Law 33/2021 Art. 13(4)",
+      "law_text": "Art. 13(4): The employer shall provide \"the worker with proper accommodation licensed by the competent authorities [...] or paying to him an accommodation allowance in cash or including it in the wage.\"",
       "action": "Ask whether housing is free or included in your wage, and get it in writing."
     },
     {
@@ -48,6 +52,7 @@
       "match_hint": "more than 8 hours a day or 48 hours a week, or hours left open 'as per company requirement'",
       "why": "Normal working time is capped at 8 hours a day or 48 a week. Overtime is limited to 2 hours a day, and total hours cannot pass 144 in 3 weeks.",
       "source": "Federal Decree-Law 33/2021 Arts. 17 and 19(1)",
+      "law_text": "Art. 17(1): \"The maximum normal working hours for workers shall be (8) eight hours per day or (48) forty-eight hours per week.\" Art. 19(1): overtime may \"not exceed two hours per day\" and \"the total working hours shall not exceed (144) one hundred and forty four hours every (3) three weeks.\"",
       "action": "Ask for your working hours to be written in the contract. Keep a daily record."
     },
     {
@@ -57,6 +62,7 @@
       "match_hint": "overtime unpaid, included in salary, or paid at the normal rate",
       "why": "Overtime must be paid at your basic hourly wage plus at least 25%, or plus 50% for hours between 10 pm and 4 am (except shift workers).",
       "source": "Federal Decree-Law 33/2021 Art. 19",
+      "law_text": "Art. 19: overtime is paid at \"the basic wage plus an increase of not less than (25 %) twenty five percent of that wage\", and for overtime \"between 10 pm and 4 am [...] not less than (50%) fifty percent\" (shift workers excluded).",
       "action": "Ask for the overtime rate in writing. Keep a daily record of your hours."
     },
     {
@@ -66,6 +72,7 @@
       "match_hint": "work 7 days a week, no weekly day off",
       "why": "You are entitled to at least one paid day off every week.",
       "source": "Federal Decree-Law 33/2021 Art. 21",
+      "law_text": "Art. 21: \"The worker shall be granted a paid weekend of not less than one day, according to the employment contract or the work regulation.\"",
       "action": "Ask for a fixed weekly day off in the contract."
     },
     {
@@ -75,6 +82,7 @@
       "match_hint": "less than 30 days annual leave per year, or no annual leave",
       "why": "You get at least 30 days of paid annual leave per year (2 days per month in your first year after 6 months).",
       "source": "Federal Decree-Law 33/2021 Art. 29",
+      "law_text": "Art. 29(1): \"the worker shall be entitled to an annual leave with full wage, of not less than: a. Thirty days for each year of extended service; b. Two days for each month if his service term is more than six months and less than a year.\"",
       "action": "Ask for the leave clause to match the law."
     },
     {
@@ -84,6 +92,7 @@
       "match_hint": "worker must pay a fine, penalty, recruitment costs or compensation for resigning or leaving early",
       "why": "If you resign, the law only requires you to give 30 to 90 days' written notice. If you skip the notice, the compensation is your wage for the missing notice days. Recruitment costs can never be charged to you, and threatening penalties to make you work is forbidden.",
       "source": "Federal Decree-Law 33/2021 Arts. 43, 6(4) and 14(1)",
+      "law_text": "Art. 43: either party may end the contract with written notice of \"not less than (30) thirty days and not more than (90) ninety days\"; skipping it costs a notice period allowance \"equal to the worker's wage for the full notice period or the remaining part thereof.\" Art. 6(4) bans charging recruitment costs. Art. 14(1) bans threatening \"any penalty\" to force work.",
       "action": "Ask for this clause to be removed or limited to the notice period. Report threats to MOHRE."
     },
     {
@@ -93,6 +102,7 @@
       "match_hint": "final contract will be given on arrival, no written contract, terms may change later",
       "why": "Your employer must sign a written contract with you on the official Ministry form and give you a copy. Contracts that only appear after you arrive are a common way to change the promised salary or job.",
       "source": "Federal Decree-Law 33/2021 Art. 8(1)",
+      "law_text": "Art. 8(1): \"The employer shall conclude an employment contract with the worker [...] The contract shall be made in two copies; one copy shall be kept by the employer and the other shall be handed over to the worker, as per the forms specified by the Implementing Regulation.\"",
       "action": "Ask to see the MOHRE contract or offer before you travel or pay anything."
     },
     {
@@ -102,6 +112,7 @@
       "match_hint": "employer may assign any other job, task or location as needed",
       "why": "You cannot be made to do work fundamentally different from your contract without your written consent. If it happens, you may leave without notice and keep your end-of-service rights.",
       "source": "Federal Decree-Law 33/2021 Art. 45(4)",
+      "law_text": "Art. 45(4): the worker may quit without notice, keeping his end-of-service rights, if \"The employer instructs the worker to perform a work fundamentally different from the work agreed upon in the employment contract, without obtaining the worker's written consent.\"",
       "action": "Make sure your job title and duties are written clearly."
     },
     {
@@ -111,12 +122,22 @@
       "match_hint": "worker pays for their own ticket home",
       "why": "The employer pays your trip home when the job ends, unless you have already moved to another employer or the contract ended because of your fault.",
       "source": "Federal Decree-Law 33/2021 Art. 13(12)",
+      "law_text": "Art. 13(12): the employer bears \"the repatriation expenses of the worker to his place of recruitment [...] unless he has already joined the service of another employer or unless the reason for terminating the contract was attributed to the worker.\"",
       "action": "Ask for the employer-paid return ticket to be written in the contract."
     }
   ],
   "hotlines": [
-    { "name": "Ministry of Human Resources & Emiratisation (MOHRE)", "contact": "600 590000" },
-    { "name": "Police", "contact": "999" },
-    { "name": "MOHRE online", "contact": "https://www.mohre.gov.ae" }
+    {
+      "name": "Ministry of Human Resources & Emiratisation (MOHRE)",
+      "contact": "600 590000"
+    },
+    {
+      "name": "Police",
+      "contact": "999"
+    },
+    {
+      "name": "MOHRE online",
+      "contact": "https://www.mohre.gov.ae"
+    }
   ]
 }
