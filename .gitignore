@@ -1,0 +1,13 @@
+.env
+.env.*
+node_modules/
+.next/
+
+# Eval stays local: test docs, scripts and paid Muse outputs
+eval/
+HACKATHON-INFO.md
+PLAN.md
+
+# Personal planning notes
+PLAN.md
+HACKATHON-INFO.md

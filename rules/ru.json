@@ -1,0 +1,104 @@
+{
+  "country": "RU",
+  "name": "Russia",
+  "sources": [
+    "Labour Code of the Russian Federation (197-FZ)",
+    "Code of Administrative Offences, Art. 19.17"
+  ],
+  "rules": [
+    {
+      "id": "passport-retention",
+      "topic": "document confiscation",
+      "severity": "high",
+      "match_hint": "employer, HR or agent keeps, holds or stores the worker's passport, patent or other documents",
+      "why": "Taking a passport as a pledge or guarantee is an offence. Your employer has no legal reason to keep your passport or work patent, and you need them with you for police checks.",
+      "source": "Code of Administrative Offences Art. 19.17(2)",
+      "action": "Keep your passport and patent yourself. If they were taken, complain to the labour inspectorate (онлайнинспекция.рф) or the police (112)."
+    },
+    {
+      "id": "excessive-hours",
+      "topic": "working hours",
+      "severity": "high",
+      "match_hint": "more than 40 hours a week of normal working time, e.g. 6 days x 12 hours = 72 hours",
+      "why": "Normal working time cannot be more than 40 hours a week. Anything above that is overtime, which needs your written consent and is limited to 4 hours a day and 120 hours a year.",
+      "source": "Labour Code Arts. 91 and 99",
+      "action": "Ask for a schedule within 40 hours. Write down the hours you actually work every day."
+    },
+    {
+      "id": "overtime-pay",
+      "topic": "overtime",
+      "severity": "high",
+      "match_hint": "overtime unpaid, 'included in salary', paid at normal rate, or hours worked above hours paid",
+      "why": "Overtime must be paid at least 1.5 times for the first 2 hours and at least double after that.",
+      "source": "Labour Code Art. 152",
+      "action": "Compare hours worked with hours paid on your payslip. Keep your own record and complain if they don't match."
+    },
+    {
+      "id": "deductions",
+      "topic": "wage deductions",
+      "severity": "high",
+      "match_hint": "deductions for housing, dormitory, food, uniform, workwear, or any deduction above 20% of the wage",
+      "why": "The employer can only deduct in a few cases listed by law (like unearned advances or counting errors). Housing, food or uniforms can only be paid from your wage if you asked for it in writing. All deductions together cannot exceed 20% of each payment.",
+      "source": "Labour Code Arts. 137 and 138",
+      "action": "Do not sign a request for deductions you don't want. Check each payslip against the 20% limit."
+    },
+    {
+      "id": "fines",
+      "topic": "fines",
+      "severity": "high",
+      "match_hint": "fine (штраф) for lateness, mistakes or rule-breaking deducted from wages",
+      "why": "Employers cannot fine workers. The only disciplinary penalties allowed are a reprimand, a warning or dismissal.",
+      "source": "Labour Code Art. 192",
+      "action": "Ask for the fine to be returned. Complain to the labour inspectorate if it isn't."
+    },
+    {
+      "id": "quit-penalty",
+      "topic": "penalty for leaving",
+      "severity": "high",
+      "match_hint": "worker must pay a fine, penalty or several months' salary for resigning or leaving early",
+      "why": "You can resign at any time by giving 2 weeks' written notice. A worker only has to pay for direct actual damage they caused, so a fixed penalty for quitting is not allowed.",
+      "source": "Labour Code Arts. 80 and 238",
+      "action": "Don't sign this clause. If you want to leave, give written notice 2 weeks ahead and keep a copy."
+    },
+    {
+      "id": "pay-frequency",
+      "topic": "late or monthly pay",
+      "severity": "medium",
+      "match_hint": "salary paid once a month, or later than 15 days after the period",
+      "why": "Wages must be paid at least every half month, and no later than 15 days after the period they cover.",
+      "source": "Labour Code Art. 136",
+      "action": "Ask for pay twice a month as the law requires."
+    },
+    {
+      "id": "payslip",
+      "topic": "payslip",
+      "severity": "medium",
+      "match_hint": "no payslip, or deductions without a reason",
+      "why": "Every time you are paid, the employer must tell you in writing what your pay is made of and the amount and reason for every deduction.",
+      "source": "Labour Code Art. 136",
+      "action": "Ask for a written payslip (расчётный листок) every pay day."
+    },
+    {
+      "id": "weekly-rest",
+      "topic": "rest day",
+      "severity": "medium",
+      "match_hint": "work 7 days a week, no day off",
+      "why": "Every worker must get weekly days off.",
+      "source": "Labour Code Art. 111",
+      "action": "Ask for fixed days off in the contract."
+    },
+    {
+      "id": "annual-leave",
+      "topic": "annual leave",
+      "severity": "medium",
+      "match_hint": "less than 28 calendar days annual leave, or no leave",
+      "why": "You get at least 28 calendar days of paid leave a year.",
+      "source": "Labour Code Art. 115",
+      "action": "Ask for the leave clause to match the law."
+    }
+  ],
+  "hotlines": [
+    { "name": "Federal Labour Inspectorate (Rostrud) online", "contact": "https://онлайнинспекция.рф" },
+    { "name": "Emergency / police", "contact": "112" }
+  ]
+}

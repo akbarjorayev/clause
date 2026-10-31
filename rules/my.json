@@ -1,0 +1,97 @@
+{
+  "country": "MY",
+  "name": "Malaysia",
+  "sources": [
+    "Employment Act 1955 (Act 265), as amended by Act A1651 (2022)",
+    "Minimum Wages Order 2024",
+    "Passports Act 1966",
+    "Employer's Mandatory Commitment on foreign worker levy (2018)"
+  ],
+  "rules": [
+    {
+      "id": "passport-retention",
+      "topic": "document confiscation",
+      "severity": "high",
+      "match_hint": "employer, agent or company keeps, holds or stores the worker's passport",
+      "why": "It is an offence for an employer to withhold your passport.",
+      "source": "Passports Act 1966 s. 12(1)(f)",
+      "action": "Keep your passport yourself. If it was taken, report it to the Labour Department or the police."
+    },
+    {
+      "id": "minimum-wage",
+      "topic": "minimum wage",
+      "severity": "high",
+      "match_hint": "monthly basic salary below RM1,700",
+      "why": "The minimum wage is RM1,700 a month, and it applies to foreign workers too.",
+      "source": "Minimum Wages Order 2024",
+      "action": "Do not accept a salary below the minimum wage. Report it to the Labour Department."
+    },
+    {
+      "id": "levy-deduction",
+      "topic": "levy deducted from wages",
+      "severity": "high",
+      "match_hint": "foreign worker levy deducted from or paid by the worker",
+      "why": "Since 2018 the employer must pay the foreign worker levy. It is not a lawful deduction from your wage.",
+      "source": "Employer's Mandatory Commitment (2018); Employment Act s. 24(1)",
+      "action": "Ask for the levy deduction to be removed and refunded."
+    },
+    {
+      "id": "deductions",
+      "topic": "wage deductions",
+      "severity": "medium",
+      "match_hint": "deductions for housing, food, recruitment costs, fines, or deductions above half the wage",
+      "why": "Only deductions allowed by the Employment Act are legal. Housing and food can only be deducted if you asked in writing and the Labour Department approved it, and all deductions together cannot exceed 50% of your monthly wage.",
+      "source": "Employment Act s. 24",
+      "action": "Do not sign a request for deductions you don't want. Check each payslip."
+    },
+    {
+      "id": "excessive-hours",
+      "topic": "working hours",
+      "severity": "medium",
+      "match_hint": "more than 8 hours a day or 45 hours a week of normal working time",
+      "why": "Normal working time is capped at 8 hours a day and 45 hours a week, with a break of at least 30 minutes every 5 hours.",
+      "source": "Employment Act s. 60A(1), as amended in 2022",
+      "action": "Make sure extra hours are recorded and paid as overtime."
+    },
+    {
+      "id": "overtime-pay",
+      "topic": "overtime",
+      "severity": "high",
+      "match_hint": "overtime unpaid, included in salary, or paid at the normal rate",
+      "why": "Overtime must be paid at least 1.5 times your hourly rate (for workers earning RM4,000 a month or less).",
+      "source": "Employment Act s. 60A(3)(a)",
+      "action": "Ask for the overtime rate in writing. Keep a daily record of your hours."
+    },
+    {
+      "id": "weekly-rest",
+      "topic": "rest day",
+      "severity": "medium",
+      "match_hint": "work 7 days a week, no weekly rest day",
+      "why": "You must get one whole rest day each week, and you cannot be forced to work on it except in emergencies.",
+      "source": "Employment Act ss. 59(1) and 60(1)",
+      "action": "Ask for a fixed weekly rest day in the contract."
+    },
+    {
+      "id": "annual-leave",
+      "topic": "annual leave",
+      "severity": "medium",
+      "match_hint": "less than 8 days annual leave, or no annual leave",
+      "why": "You get at least 8 days of paid annual leave a year (12 after 2 years, 16 after 5 years).",
+      "source": "Employment Act s. 60E(1)",
+      "action": "Ask for the leave clause to match the law."
+    },
+    {
+      "id": "quit-penalty",
+      "topic": "penalty for leaving",
+      "severity": "high",
+      "match_hint": "worker must pay recruitment costs, a fine or penalty for resigning or leaving early",
+      "why": "Recruitment costs should not be charged to workers, and making you pay to be allowed to leave can count as forced labour, which is now an offence under the Employment Act.",
+      "source": "Employment Act (forced labour provision, 2022 amendment); ILO fair recruitment principles",
+      "action": "Do not sign this clause. Report threats or penalties to the Labour Department."
+    }
+  ],
+  "hotlines": [
+    { "name": "Labour Department (JTKSM)", "contact": "https://jtksm.mohr.gov.my" },
+    { "name": "Police", "contact": "999" }
+  ]
+}

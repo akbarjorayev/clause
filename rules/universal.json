@@ -1,0 +1,55 @@
+{
+  "country": "ALL",
+  "name": "International standards (ILO)",
+  "sources": [
+    "ILO General principles and operational guidelines for fair recruitment (2019)"
+  ],
+  "note": "Not binding law. Present as international standards, never as 'illegal'. Use when the country file has no matching rule, e.g. fees charged by an agent in the worker's home country.",
+  "rules": [
+    {
+      "id": "recruitment-fees",
+      "topic": "recruitment fees",
+      "severity": "high",
+      "match_hint": "worker or candidate pays a recruitment, placement, service, visa processing or medical fee to an agent or employer, in any country",
+      "why": "International labour standards say workers should never pay recruitment fees or related costs. These fees often trap workers in debt.",
+      "source": "ILO Fair Recruitment General Principle 7",
+      "action": "Ask for the fee to be removed. Keep receipts of anything you paid. Check if the agent is licensed in your home country."
+    },
+    {
+      "id": "contract-before-departure",
+      "topic": "no contract before travel",
+      "severity": "high",
+      "match_hint": "final contract given only on arrival, terms may change later, contract not in a language the worker understands",
+      "why": "Migrant workers should get a clear written contract in a language they understand before leaving home. A contract that only appears after arrival is a common way to swap the promised job or salary.",
+      "source": "ILO Fair Recruitment General Principle 8",
+      "action": "Do not travel or pay until you have the final contract and understand it."
+    },
+    {
+      "id": "vague-terms",
+      "topic": "unclear terms",
+      "severity": "medium",
+      "match_hint": "hours 'as per company requirement', job or location can change at any time, salary not clearly stated",
+      "why": "Your contract should clearly state where you will work, what you will do, and the conditions. Vague terms make it easy to change them later.",
+      "source": "ILO Fair Recruitment General Principle 8",
+      "action": "Ask for the exact hours, job, location and salary to be written down."
+    },
+    {
+      "id": "documents-retained",
+      "topic": "document confiscation",
+      "severity": "high",
+      "match_hint": "agent or employer keeps the worker's passport, ID or contract",
+      "why": "Your passport, ID and contract should never be taken or kept by an employer or agent.",
+      "source": "ILO Fair Recruitment General Principle 11",
+      "action": "Keep your documents yourself, or at least keep copies and photos of them on your phone."
+    },
+    {
+      "id": "free-to-leave",
+      "topic": "not free to leave",
+      "severity": "high",
+      "match_hint": "worker needs permission to leave, change employer or go home, or must pay to leave",
+      "why": "Workers should be free to quit their job and go home, and should not need their employer's permission to change jobs.",
+      "source": "ILO Fair Recruitment General Principle 12",
+      "action": "Before signing, ask what happens if you want to leave. Contact the hotline if you are being stopped."
+    }
+  ]
+}

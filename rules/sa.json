@@ -1,0 +1,114 @@
+{
+  "country": "SA",
+  "name": "Saudi Arabia",
+  "sources": [
+    "Saudi Labor Law, Royal Decree No. M/51 (2005), as amended",
+    "Council of Ministers Resolution No. 166 (1421H / 2000)"
+  ],
+  "rules": [
+    {
+      "id": "passport-retention",
+      "topic": "document confiscation",
+      "severity": "high",
+      "match_hint": "employer, agent or company keeps, holds or stores the worker's passport or identity documents",
+      "why": "Every worker has the right to keep their own passport. Employers who hold it can be fined.",
+      "source": "Council of Ministers Resolution No. 166 (1421H)",
+      "action": "Do not hand over your passport. If it was taken, report it to the Ministry hotline 19911."
+    },
+    {
+      "id": "fees-charged-to-worker",
+      "topic": "recruitment and permit fees",
+      "severity": "high",
+      "match_hint": "worker pays or has deducted recruitment fees, visa costs, Iqama (residence permit), work permit or renewal fees, exit/re-entry visa, or must repay recruitment costs",
+      "why": "The employer must pay recruitment fees, Iqama and work permit fees and their renewals, exit/re-entry visas and the final return ticket.",
+      "source": "Labor Law Art. 40(1)",
+      "action": "Ask for this clause to be removed. Keep proof of any fee you paid and report it to 19911."
+    },
+    {
+      "id": "wage-withholding",
+      "topic": "wages withheld",
+      "severity": "high",
+      "match_hint": "part of the salary is held back, kept as a deposit or guarantee, or paid only at contract end",
+      "why": "An employer may not withhold any part of your wages without a court order.",
+      "source": "Labor Law Art. 61(1)",
+      "action": "Do not accept held-back wages. Keep your payslips and report unpaid wages to 19911."
+    },
+    {
+      "id": "deductions",
+      "topic": "wage deductions",
+      "severity": "medium",
+      "match_hint": "deductions from salary for housing, food, uniforms, tools, fines, loans, or deductions above half the salary",
+      "why": "Deductions need your written consent except in a few legal cases, loan repayments are capped at 10% of the wage, and all deductions together may not exceed half your wage.",
+      "source": "Labor Law Arts. 92 and 93",
+      "action": "Only agree to deductions you understand in writing. Check each payslip and keep copies."
+    },
+    {
+      "id": "excessive-hours",
+      "topic": "working hours",
+      "severity": "medium",
+      "match_hint": "more than 8 hours a day or 48 hours a week of normal working time",
+      "why": "Normal working time is capped at 8 hours a day or 48 hours a week (6 hours a day / 36 a week for Muslims in Ramadan). Hours beyond that are overtime.",
+      "source": "Labor Law Art. 98",
+      "action": "Make sure extra hours are recorded and paid as overtime. Note your daily hours yourself."
+    },
+    {
+      "id": "overtime-pay",
+      "topic": "overtime",
+      "severity": "high",
+      "match_hint": "overtime unpaid, included in salary, or paid at the normal rate",
+      "why": "Every overtime hour must be paid at your hourly wage plus 50% of your basic wage. Work on holidays and Eids counts as overtime.",
+      "source": "Labor Law Art. 107",
+      "action": "Ask for the overtime rate in writing. Keep a daily record of your hours."
+    },
+    {
+      "id": "weekly-rest",
+      "topic": "rest day",
+      "severity": "medium",
+      "match_hint": "work 7 days a week, no weekly day off, or rest day paid in cash instead",
+      "why": "You are entitled to one paid rest day a week of at least 24 hours in a row. It cannot be replaced by cash.",
+      "source": "Labor Law Art. 104",
+      "action": "Ask for a fixed weekly day off in the contract."
+    },
+    {
+      "id": "annual-leave",
+      "topic": "annual leave",
+      "severity": "medium",
+      "match_hint": "less than 21 days annual leave, leave only after more than one year, or leave replaced by cash",
+      "why": "You get at least 21 days of paid annual leave each year (30 days after 5 years with the same employer), and it cannot be swapped for money while you work there.",
+      "source": "Labor Law Art. 109",
+      "action": "Ask for the leave clause to match the law."
+    },
+    {
+      "id": "quit-penalty",
+      "topic": "penalty for leaving",
+      "severity": "medium",
+      "match_hint": "worker must pay a fine, penalty or compensation for resigning or leaving early",
+      "why": "Saudi law does allow compensation when a fixed-term contract is ended early without a valid reason, so this clause is not automatically illegal. But recruitment costs cannot be charged to you this way, and you may leave without notice if the employer breaks the contract, lied about the job, or treats you cruelly.",
+      "source": "Labor Law Arts. 77, 81 and 40",
+      "action": "Check the amount before signing. If the employer breaks the contract, you have the right to leave; ask 19911 first."
+    },
+    {
+      "id": "job-change",
+      "topic": "different job",
+      "severity": "medium",
+      "match_hint": "employer may assign any other job, task or location as needed",
+      "why": "You cannot be given work essentially different from what you agreed without your written consent, except briefly in emergencies (up to 30 days a year).",
+      "source": "Labor Law Art. 60",
+      "action": "Make sure your job title and duties are written clearly in the contract."
+    },
+    {
+      "id": "return-ticket",
+      "topic": "return ticket",
+      "severity": "medium",
+      "match_hint": "worker pays for their own ticket home",
+      "why": "The employer pays your ticket home when the job ends. You only pay it yourself if you are unfit for work or leave without a legitimate reason.",
+      "source": "Labor Law Art. 40",
+      "action": "Ask for the employer-paid return ticket to be written in the contract."
+    }
+  ],
+  "hotlines": [
+    { "name": "Ministry of Human Resources (HRSD)", "contact": "19911" },
+    { "name": "Police", "contact": "911" },
+    { "name": "HRSD online", "contact": "https://www.hrsd.gov.sa" }
+  ]
+}

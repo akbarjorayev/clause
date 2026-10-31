@@ -1,0 +1,122 @@
+{
+  "country": "AE",
+  "name": "United Arab Emirates",
+  "sources": [
+    "UAE Federal Decree-Law No. 33 of 2021 Regarding the Regulation of Employment Relationships (private sector, not domestic workers)"
+  ],
+  "rules": [
+    {
+      "id": "passport-retention",
+      "topic": "document confiscation",
+      "severity": "high",
+      "match_hint": "employer, agent or company keeps, holds or stores the worker's passport, Emirates ID or other official documents",
+      "why": "Your employer is not allowed to hold your passport or other official documents.",
+      "source": "Federal Decree-Law 33/2021 Art. 13(2)",
+      "action": "Do not hand over your passport. If it was taken, report it to MOHRE on 600 590000."
+    },
+    {
+      "id": "fees-charged-to-worker",
+      "topic": "recruitment fees",
+      "severity": "high",
+      "match_hint": "worker pays, or has deducted from salary, recruitment fees, visa costs, placement or service charges, or must repay recruitment costs",
+      "why": "Employers may not charge you recruitment or employment fees, directly or indirectly (for example through salary deductions).",
+      "source": "Federal Decree-Law 33/2021 Art. 6(4)",
+      "action": "Do not pay. Keep proof of anything you already paid and report it to MOHRE."
+    },
+    {
+      "id": "deductions",
+      "topic": "wage deductions",
+      "severity": "medium",
+      "match_hint": "deductions from salary for housing, food, fines, loans, damages, or any deduction not listed by law",
+      "why": "Deductions are only allowed in cases listed by law: loans need your written consent and no interest, fines are capped at 5% of the wage, and all deductions together cannot exceed 50%.",
+      "source": "Federal Decree-Law 33/2021 Art. 25",
+      "action": "Ask what each deduction is for, in writing. Keep your payslips."
+    },
+    {
+      "id": "housing",
+      "topic": "housing",
+      "severity": "medium",
+      "match_hint": "worker pays for accommodation provided by employer, housing cost deducted from wage",
+      "why": "The employer must provide proper licensed accommodation, or pay a housing allowance or include it in the wage.",
+      "source": "Federal Decree-Law 33/2021 Art. 13(4)",
+      "action": "Ask whether housing is free or included in your wage, and get it in writing."
+    },
+    {
+      "id": "excessive-hours",
+      "topic": "working hours",
+      "severity": "medium",
+      "match_hint": "more than 8 hours a day or 48 hours a week, or hours left open 'as per company requirement'",
+      "why": "Normal working time is capped at 8 hours a day or 48 a week. Overtime is limited to 2 hours a day, and total hours cannot pass 144 in 3 weeks.",
+      "source": "Federal Decree-Law 33/2021 Arts. 17 and 19(1)",
+      "action": "Ask for your working hours to be written in the contract. Keep a daily record."
+    },
+    {
+      "id": "overtime-pay",
+      "topic": "overtime",
+      "severity": "high",
+      "match_hint": "overtime unpaid, included in salary, or paid at the normal rate",
+      "why": "Overtime must be paid at your basic hourly wage plus at least 25%, or plus 50% for hours between 10 pm and 4 am (except shift workers).",
+      "source": "Federal Decree-Law 33/2021 Art. 19",
+      "action": "Ask for the overtime rate in writing. Keep a daily record of your hours."
+    },
+    {
+      "id": "weekly-rest",
+      "topic": "rest day",
+      "severity": "medium",
+      "match_hint": "work 7 days a week, no weekly day off",
+      "why": "You are entitled to at least one paid day off every week.",
+      "source": "Federal Decree-Law 33/2021 Art. 21",
+      "action": "Ask for a fixed weekly day off in the contract."
+    },
+    {
+      "id": "annual-leave",
+      "topic": "annual leave",
+      "severity": "medium",
+      "match_hint": "less than 30 days annual leave per year, or no annual leave",
+      "why": "You get at least 30 days of paid annual leave per year (2 days per month in your first year after 6 months).",
+      "source": "Federal Decree-Law 33/2021 Art. 29",
+      "action": "Ask for the leave clause to match the law."
+    },
+    {
+      "id": "quit-penalty",
+      "topic": "penalty for leaving",
+      "severity": "high",
+      "match_hint": "worker must pay a fine, penalty, recruitment costs or compensation for resigning or leaving early",
+      "why": "If you resign, the law only requires you to give 30 to 90 days' written notice. If you skip the notice, the compensation is your wage for the missing notice days. Recruitment costs can never be charged to you, and threatening penalties to make you work is forbidden.",
+      "source": "Federal Decree-Law 33/2021 Arts. 43, 6(4) and 14(1)",
+      "action": "Ask for this clause to be removed or limited to the notice period. Report threats to MOHRE."
+    },
+    {
+      "id": "contract-later",
+      "topic": "no written contract",
+      "severity": "high",
+      "match_hint": "final contract will be given on arrival, no written contract, terms may change later",
+      "why": "Your employer must sign a written contract with you on the official Ministry form and give you a copy. Contracts that only appear after you arrive are a common way to change the promised salary or job.",
+      "source": "Federal Decree-Law 33/2021 Art. 8(1)",
+      "action": "Ask to see the MOHRE contract or offer before you travel or pay anything."
+    },
+    {
+      "id": "job-change",
+      "topic": "different job",
+      "severity": "medium",
+      "match_hint": "employer may assign any other job, task or location as needed",
+      "why": "You cannot be made to do work fundamentally different from your contract without your written consent. If it happens, you may leave without notice and keep your end-of-service rights.",
+      "source": "Federal Decree-Law 33/2021 Art. 45(4)",
+      "action": "Make sure your job title and duties are written clearly."
+    },
+    {
+      "id": "return-ticket",
+      "topic": "return ticket",
+      "severity": "medium",
+      "match_hint": "worker pays for their own ticket home",
+      "why": "The employer pays your trip home when the job ends, unless you have already moved to another employer or the contract ended because of your fault.",
+      "source": "Federal Decree-Law 33/2021 Art. 13(12)",
+      "action": "Ask for the employer-paid return ticket to be written in the contract."
+    }
+  ],
+  "hotlines": [
+    { "name": "Ministry of Human Resources & Emiratisation (MOHRE)", "contact": "600 590000" },
+    { "name": "Police", "contact": "999" },
+    { "name": "MOHRE online", "contact": "https://www.mohre.gov.ae" }
+  ]
+}
