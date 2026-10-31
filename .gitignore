@@ -1,13 +1,49 @@
-.env
-.env.*
-node_modules/
-.next/
+# --- Dependencies and build output ---
+/node_modules
+/.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+/.next/
+/out/
+/build
+/coverage
+.vercel
+*.tsbuildinfo
+next-env.d.ts
 
-# Eval stays local: test docs, scripts and paid Muse outputs
+# --- Secrets: the Muse API key lives here, never push it ---
+.env*
+!.env.example
+*.pem
+
+# --- Logs ---
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# --- Editor and OS files ---
+.DS_Store
+Thumbs.db
+Desktop.ini
+.idea/
+.vscode/
+
+# --- AI coding tool files (local settings, agent instructions, scratch work) ---
+.claude/
+.superpowers/
+CLAUDE.md
+AGENTS.md
+
+# --- Clause: local-only project files ---
+# Test documents, scripts and saved (paid) Muse outputs
 eval/
-HACKATHON-INFO.md
-PLAN.md
-
-# Personal planning notes
+# Planning notes and build plans
+docs/
 PLAN.md
 HACKATHON-INFO.md

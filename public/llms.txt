@@ -1,0 +1,38 @@
+# Clause
+
+> Clause is a free web app for migrant workers. The user takes a photo of a work contract, offer letter or payslip (in any language), and Clause explains in plain English which clauses break the labour law of the country they work in, quotes the law, says what to do, and lists hotlines. It is not legal advice.
+
+## What it does
+
+- The worker picks the country they work in, then photographs or uploads one page of a contract or payslip.
+- The document can be in any language (Arabic, Russian, Malay, English and others). Meta's Muse model reads the original photo directly; nothing is translated first.
+- The answer is always in English. Every problem found shows the clause from the document, a plain explanation, what to do, and the law it relies on (tap to read the quoted text).
+- Problems come from a fixed set of checked rules, one rules file per country. The AI never cites law from memory: the law citation, quoted text and severity always come from the rules files.
+- If nothing is wrong the app says "Looks good". It checks a set of common problems only, so that is not legal clearance.
+
+## Countries and laws used
+
+- Saudi Arabia (/sa): Labor Law, Royal Decree M/51 (2005, as amended); Council of Ministers Resolution 166 (passports).
+- United Arab Emirates (/ae): Federal Decree-Law 33 of 2021 on employment relationships (private sector; domestic workers are excluded).
+- Russia (/ru): Labour Code of the Russian Federation; Code of Administrative Offences, Art. 19.17 (passports).
+- Malaysia (/my): Employment Act 1955 (as amended 2022); Minimum Wages Order 2024; Passports Act 1966.
+- All countries: ILO General Principles and Operational Guidelines for Fair Recruitment (international standards, not binding law).
+
+## Problems it looks for
+
+Passport or document retention, recruitment fees charged to the worker, illegal wage deductions or fines, unpaid or underpaid overtime, excessive working hours, missing weekly rest or annual leave, penalties for quitting, contracts handed over only after arrival, vague or changeable job terms, and return-ticket costs.
+
+## Privacy
+
+The photo is processed in memory to produce the answer and is never stored. There are no accounts.
+
+## Limits
+
+- Not legal advice. For help, call the labour hotline shown for the country (for example Saudi Arabia 19911, UAE 600 590000, Russia online labour inspectorate, Malaysia Labour Department).
+- Laws change; some sources are secondary (noted in the app's rule sources). Nationality-specific rules (visas, work patents) are not covered.
+- Only one page at a time, and only the four countries above.
+
+## Pages
+
+- [Home](/): choose the country you work in
+- [Saudi Arabia](/sa), [United Arab Emirates](/ae), [Russia](/ru), [Malaysia](/my): check a document for that country

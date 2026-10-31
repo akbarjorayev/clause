@@ -13,6 +13,7 @@
       "match_hint": "employer, agent or company keeps, holds or stores the worker's passport or identity documents",
       "why": "Every worker has the right to keep their own passport. Employers who hold it can be fined.",
       "source": "Council of Ministers Resolution No. 166 (1421H)",
+      "law_text": "\"Every employee has the right to keep his passport in his custody.\" (Council of Ministers Resolution No. 166, as quoted by the Philippine Embassy in Riyadh. Employers who hold passports can be fined.)",
       "action": "Do not hand over your passport. If it was taken, report it to the Ministry hotline 19911."
     },
     {
@@ -22,6 +23,7 @@
       "match_hint": "worker pays or has deducted recruitment fees, visa costs, Iqama (residence permit), work permit or renewal fees, exit/re-entry visa, or must repay recruitment costs",
       "why": "The employer must pay recruitment fees, Iqama and work permit fees and their renewals, exit/re-entry visas and the final return ticket.",
       "source": "Labor Law Art. 40(1)",
+      "law_text": "Art. 40(1): \"An employer shall incur the fees pertaining to recruitment of non-Saudi workers, the fees of the residence permit (Iqama) and work permit together with their renewal and the fines resulting from their delay, as well as the fees pertaining to change of profession, exit and re-entry visas and return tickets to the worker's home country at the end of the relation between the two parties.\"",
       "action": "Ask for this clause to be removed. Keep proof of any fee you paid and report it to 19911."
     },
     {
@@ -31,6 +33,7 @@
       "match_hint": "part of the salary is held back, kept as a deposit or guarantee, or paid only at contract end",
       "why": "An employer may not withhold any part of your wages without a court order.",
       "source": "Labor Law Art. 61(1)",
+      "law_text": "Art. 61(1): The employer shall \"refrain from using the worker without pay and shall not, without a judicial instrument, withhold the worker's wages or any part thereof.\"",
       "action": "Do not accept held-back wages. Keep your payslips and report unpaid wages to 19911."
     },
     {
@@ -40,6 +43,7 @@
       "match_hint": "deductions from salary for housing, food, uniforms, tools, fines, loans, or deductions above half the salary",
       "why": "Deductions need your written consent except in a few legal cases, loan repayments are capped at 10% of the wage, and all deductions together may not exceed half your wage.",
       "source": "Labor Law Arts. 92 and 93",
+      "law_text": "Art. 92: \"No amount shall be deducted from the worker's wages against private rights without his written consent\", except listed cases such as loan repayments that \"do not exceed 10% of his wage.\" Art. 93: \"In all cases, deductions made may not exceed half the worker's due wage.\"",
       "action": "Only agree to deductions you understand in writing. Check each payslip and keep copies."
     },
     {
@@ -49,6 +53,7 @@
       "match_hint": "more than 8 hours a day or 48 hours a week of normal working time",
       "why": "Normal working time is capped at 8 hours a day or 48 hours a week (6 hours a day / 36 a week for Muslims in Ramadan). Hours beyond that are overtime.",
       "source": "Labor Law Art. 98",
+      "law_text": "Art. 98: \"A worker may not actually work for more than eight hours a day if the employer uses the daily work criterion, or more than forty-eight hours a week if he uses the weekly criterion.\"",
       "action": "Make sure extra hours are recorded and paid as overtime. Note your daily hours yourself."
     },
     {
@@ -58,6 +63,7 @@
       "match_hint": "overtime unpaid, included in salary, or paid at the normal rate",
       "why": "Every overtime hour must be paid at your hourly wage plus 50% of your basic wage. Work on holidays and Eids counts as overtime.",
       "source": "Labor Law Art. 107",
+      "law_text": "Art. 107: \"(1) The employer shall pay the worker for overtime working hours an additional amount equal to the hourly wage plus 50% of his basic wage. (3) All working hours performed during holidays and Eids shall be deemed overtime hours.\"",
       "action": "Ask for the overtime rate in writing. Keep a daily record of your hours."
     },
     {
@@ -67,6 +73,7 @@
       "match_hint": "work 7 days a week, no weekly day off, or rest day paid in cash instead",
       "why": "You are entitled to one paid rest day a week of at least 24 hours in a row. It cannot be replaced by cash.",
       "source": "Labor Law Art. 104",
+      "law_text": "Art. 104: \"Friday shall be the weekly rest day for all workers. [...] The weekly rest day may not be compensated by cash. The weekly rest day shall be at full pay and shall not be less than twenty-four consecutive hours.\"",
       "action": "Ask for a fixed weekly day off in the contract."
     },
     {
@@ -76,6 +83,7 @@
       "match_hint": "less than 21 days annual leave, leave only after more than one year, or leave replaced by cash",
       "why": "You get at least 21 days of paid annual leave each year (30 days after 5 years with the same employer), and it cannot be swapped for money while you work there.",
       "source": "Labor Law Art. 109",
+      "law_text": "Art. 109: \"A worker shall be entitled to a prepaid annual leave of not less than twenty one days, to be increased to a period of not less than thirty days if the worker spends five consecutive years in the service of the employer. [...] He may not forgo it or receive cash in lieu during his period of service.\"",
       "action": "Ask for the leave clause to match the law."
     },
     {
@@ -85,6 +93,7 @@
       "match_hint": "worker must pay a fine, penalty or compensation for resigning or leaving early",
       "why": "Saudi law does allow compensation when a fixed-term contract is ended early without a valid reason, so this clause is not automatically illegal. But recruitment costs cannot be charged to you this way, and you may leave without notice if the employer breaks the contract, lied about the job, or treats you cruelly.",
       "source": "Labor Law Arts. 77, 81 and 40",
+      "law_text": "Art. 77 (as amended, 2015): the party harmed by termination for an invalid reason is owed the wage for the remaining period of a fixed-term contract, and not less than two months' wage. Art. 81: \"a worker may leave his job without notice\" if the employer \"fails to fulfill his essential contractual or statutory obligations\" or \"resorts to fraud at the time of contracting\". Art. 40(1): recruitment fees are the employer's.",
       "action": "Check the amount before signing. If the employer breaks the contract, you have the right to leave; ask 19911 first."
     },
     {
@@ -94,6 +103,7 @@
       "match_hint": "employer may assign any other job, task or location as needed",
       "why": "You cannot be given work essentially different from what you agreed without your written consent, except briefly in emergencies (up to 30 days a year).",
       "source": "Labor Law Art. 60",
+      "law_text": "Art. 60: \"A worker may not be assigned duties which are essentially different from the work agreed upon without his written consent, except in cases of necessity dictated by transient circumstances and for a period not exceeding thirty days a year.\"",
       "action": "Make sure your job title and duties are written clearly in the contract."
     },
     {
@@ -103,12 +113,22 @@
       "match_hint": "worker pays for their own ticket home",
       "why": "The employer pays your ticket home when the job ends. You only pay it yourself if you are unfit for work or leave without a legitimate reason.",
       "source": "Labor Law Art. 40",
+      "law_text": "Art. 40: the employer pays \"return tickets to the worker's home country at the end of the relation between the two parties.\" The worker pays only \"if he is unfit for work or if he wishes to return to his home country without a legitimate reason.\"",
       "action": "Ask for the employer-paid return ticket to be written in the contract."
     }
   ],
   "hotlines": [
-    { "name": "Ministry of Human Resources (HRSD)", "contact": "19911" },
-    { "name": "Police", "contact": "911" },
-    { "name": "HRSD online", "contact": "https://www.hrsd.gov.sa" }
+    {
+      "name": "Ministry of Human Resources (HRSD)",
+      "contact": "19911"
+    },
+    {
+      "name": "Police",
+      "contact": "911"
+    },
+    {
+      "name": "HRSD online",
+      "contact": "https://www.hrsd.gov.sa"
+    }
   ]
 }

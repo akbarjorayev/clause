@@ -1,0 +1,59 @@
+{
+  "doc_type": "contract",
+  "doc_language": "ar",
+  "readable": true,
+  "parties": {
+    "employer": "Al Noor Facilities Management Co., CR No. 1010458823, Riyadh.",
+    "worker": "Mr. Joel Santos, Philippine national, Passport No. P4471882B."
+  },
+  "clauses": [
+    {
+      "english": "First Party (Employer): Al Noor Facilities Management Co., CR No. 1010458823, Riyadh.",
+      "topic": "employer"
+    },
+    {
+      "english": "Second Party (Employee): Mr. Joel Santos, Philippine national, Passport No. P4471882B.",
+      "topic": "worker"
+    },
+    {
+      "english": "1. Position: Cleaner at client sites in Riyadh.",
+      "topic": "position"
+    },
+    {
+      "english": "2. Salary: SAR 1,000 per month, all-inclusive.",
+      "topic": "salary"
+    },
+    {
+      "english": "3. Working hours: 10 hours per day, 6 days per week. Overtime is paid at the normal hourly rate.",
+      "topic": "working_hours"
+    },
+    {
+      "english": "4. Fees: The cost of the residence permit (Iqama), work permit and its renewal shall be deducted from the Employee's salary.",
+      "topic": "fees"
+    },
+    {
+      "english": "5. Documents: The Employee's passport shall remain with the Employer for safekeeping during the contract.",
+      "topic": "documents"
+    },
+    {
+      "english": "6. Leave: The Employee is entitled to 15 days of annual leave after two years of service.",
+      "topic": "leave"
+    },
+    {
+      "english": "7. Termination: If the Employee resigns before the end of the contract, he shall pay the Employer SAR 8,000 as compensation for recruitment costs.",
+      "topic": "termination"
+    }
+  ],
+  "amounts": [
+    {
+      "label": "Salary",
+      "value": "1,000",
+      "currency": "SAR"
+    },
+    {
+      "label": "Compensation for recruitment costs",
+      "value": "8,000",
+      "currency": "SAR"
+    }
+  ]
+}

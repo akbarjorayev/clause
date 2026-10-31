@@ -1,0 +1,67 @@
+{
+  "flags": [
+    {
+      "rule_id": "excessive-hours",
+      "severity": "medium",
+      "clause": "3. Working hours: 10 hours per day, 6 days per week. Overtime is paid at the normal hourly rate.",
+      "title": "Too many work hours",
+      "explanation": "Your contract says 10 hours a day, 6 days a week, which is 60 hours. The law allows only 8 hours a day or 48 hours a week as normal work.",
+      "source": "Labor Law Art. 98",
+      "action": "Make sure extra hours are recorded and paid as overtime and write down your hours every day."
+    },
+    {
+      "rule_id": "overtime-pay",
+      "severity": "high",
+      "clause": "3. Working hours: 10 hours per day, 6 days per week. Overtime is paid at the normal hourly rate.",
+      "title": "Overtime paid too low",
+      "explanation": "Your contract says overtime is paid at the normal hourly rate. The law says every overtime hour must be paid at normal pay plus 50% extra.",
+      "source": "Labor Law Art. 107",
+      "action": "Ask for the correct overtime rate in writing and keep a daily record of your hours."
+    },
+    {
+      "rule_id": "fees-charged-to-worker",
+      "severity": "high",
+      "clause": "4. Fees: The cost of the residence permit (Iqama), work permit and its renewal shall be deducted from the Employee's salary.",
+      "title": "You pay Iqama fees",
+      "explanation": "Your contract says Iqama and work permit costs and renewal will be deducted from your salary. The law says the employer must pay these fees, not you.",
+      "source": "Labor Law Art. 40(1)",
+      "action": "Ask for this clause to be removed and keep proof of any fee you paid to report to 19911."
+    },
+    {
+      "rule_id": "passport-retention",
+      "severity": "high",
+      "clause": "5. Documents: The Employee's passport shall remain with the Employer for safekeeping during the contract.",
+      "title": "Passport kept by employer",
+      "explanation": "Your contract says your passport will stay with the employer for safekeeping. You have the right to keep your own passport and your employer can be fined for holding it.",
+      "source": "Council of Ministers Resolution No. 166 (1421H)",
+      "action": "Do not hand over your passport and if it was taken report it to 19911."
+    },
+    {
+      "rule_id": "annual-leave",
+      "severity": "medium",
+      "clause": "6. Leave: The Employee is entitled to 15 days of annual leave after two years of service.",
+      "title": "Too little annual leave",
+      "explanation": "Your contract gives only 15 days of leave after two years of service. The law says you must get at least 21 days of paid leave each year.",
+      "source": "Labor Law Art. 109",
+      "action": "Ask for the leave clause to match the law."
+    },
+    {
+      "rule_id": "fees-charged-to-worker",
+      "severity": "high",
+      "clause": "7. Termination: If the Employee resigns before the end of the contract, he shall pay the Employer SAR 8,000 as compensation for recruitment costs.",
+      "title": "Paying recruitment costs to leave",
+      "explanation": "Your contract says you must pay SAR 8,000 for recruitment costs if you resign early. The law says the employer must pay recruitment fees and you should not have to repay them.",
+      "source": "Labor Law Art. 40(1)",
+      "action": "Ask for this SAR 8,000 fee to be removed and keep proof of anything you paid to report to 19911."
+    },
+    {
+      "rule_id": "quit-penalty",
+      "severity": "medium",
+      "clause": "7. Termination: If the Employee resigns before the end of the contract, he shall pay the Employer SAR 8,000 as compensation for recruitment costs.",
+      "title": "Penalty for resigning early",
+      "explanation": "Your contract says you must pay SAR 8,000 if you resign before the end. This kind of payment is not automatically illegal, but recruitment costs cannot be charged to you this way.",
+      "source": "Labor Law Arts. 77, 81 and 40",
+      "action": "Check the SAR 8,000 amount before signing and call 19911 first if your employer breaks the contract and you want to leave."
+    }
+  ]
+}
