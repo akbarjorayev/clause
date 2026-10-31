@@ -2,6 +2,8 @@
 
 > Clause is a free web app for migrant workers. The user takes a photo of a work contract, offer letter or payslip (in any language), and Clause explains in plain English which clauses break the labour law of the country they work in, quotes the law, says what to do, and lists hotlines. It is not legal advice.
 
+Website: https://clause.akbarjon.uz
+
 ## What it does
 
 - The worker picks the country they work in, then photographs or uploads one page of a contract or payslip.
