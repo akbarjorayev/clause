@@ -5,6 +5,15 @@ const nextConfig: NextConfig = {
   allowedDevOrigins: ["*.trycloudflare.com", "192.168.31.144"],
   cacheComponents: true,
   partialPrefetching: true,
+  async redirects() {
+    return [
+      {
+        source: "/demo",
+        destination: "https://youtu.be/jNQXAC9IVRw",
+        permanent: false,
+      },
+    ];
+  },
   turbopack: {
     rules: {
       "*.css": {
