@@ -9,7 +9,7 @@ const nextConfig: NextConfig = {
     return [
       {
         source: "/demo",
-        destination: "https://youtu.be/jNQXAC9IVRw",
+        destination: "https://drive.google.com/file/d/1hStmygjDwTRZszg2wxtaXcbk221v0JoK/view?usp=sharing",
         permanent: false,
       },
     ];
